@@ -92,3 +92,4 @@ Thus to implement Information Retrieval Using Vector Space Model in Python is su
 
 ### Result:
 
+Thus to implement Information Retrieval Using Vector Space Model in Python is successfullly executed.
